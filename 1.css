@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+.header{
+ background-image:url(https://img.freepik.com/premium-photo/high-angle-view-breakfast-served-table_1048944-21845095.jpg?uid=R191274230&ga=GA1.1.152707082.1741785601&semt=ais_hybrid&w=740);
+ background-repeat: no-repeat;
+ background-size: 100%;
+ width: 100%;
+ height: 65rem;
+ margin-bottom: 0;
+}
+.header>h1{
+    color:white;
+    font-size:110px;
+    font-family:poppins;
+    margin-left: 31rem;
+    padding-top: 33rem;
+    
+}
+.header>h3{
+    padding-left:33rem;   
+}
+.header>#btncen{
+    position: absolute;
+    top: 120%;
+    left: 45%;
+}
